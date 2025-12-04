@@ -1,0 +1,26 @@
+.aneesh
+{
+    background-color: aquamarine;
+}
+.shruthi
+{
+    background-color: blueviolet;
+    width: auto;
+}
+#anu
+{
+    background-color: brown;
+}
+h4{
+    background-color: chocolate;
+}
+span,div{
+    background-color: chartreuse;
+}
+#ineya,.saak,i{
+    background-color: deeppink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* *babu{
+    background-color: darkblue;
+} */

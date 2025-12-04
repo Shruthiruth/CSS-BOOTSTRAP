@@ -1,0 +1,17 @@
+.box
+{
+    border: 3px solid burlywood;
+    background-color: ivory;
+}
+
+.border
+{
+    border: 3px solid darkgoldenrod;
+    background-color: antiquewhite;
+}
+
+.outline
+{
+    border: 1px solid black;
+    
+}

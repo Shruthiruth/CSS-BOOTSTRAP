@@ -1,0 +1,15 @@
+a{
+  background-color:antiquewhite;
+}
+a[target]
+{
+  background-color: cornflowerblue;
+}
+*{
+  background-color: khaki;
+  font-display: fallback;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+  
+
